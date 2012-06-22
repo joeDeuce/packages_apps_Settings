@@ -4059,7 +4059,7 @@ found in the list of installed apps.</string>
     <string name="ll_bad_levels">Levels must be increasing</string>
     <string name="ll_num_levels">Set number of levels</string>
     
-    <string name="mod_version">IceColdSandwich version</string>
+    <string name="mod_version">Mod version</string>
     <string name="link_volume_ringtones">Link volumes</string>
     <string name="link_volume_mutes">Link mute states</string>
 
