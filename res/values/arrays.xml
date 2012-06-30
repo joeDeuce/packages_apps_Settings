@@ -57,6 +57,9 @@
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>5 hours</item>
     </string-array>
 
     <!-- Do not translate. -->
@@ -75,6 +78,12 @@
         <item>600000</item>
         <!-- Do not translate. -->
         <item>1800000</item>
+        <!-- Do not translate. -->
+        <item>3600000</item>
+        <!-- Do not translate. -->
+        <item>7200000</item>
+        <!-- Do not translate. -->
+        <item>18000000</item>
     </string-array>
     
     <!-- Display settings.  The delay in inactivity before the dream is shown. These are shown in a list dialog. -->
