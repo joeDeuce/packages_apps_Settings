@@ -155,17 +155,23 @@
     </string-array>
     
     <string-array name="entries_font_size">
+        <item>Very Small</item>
         <item msgid="6490061470416867723">Small</item>
+        <item>Medium</item>
         <item msgid="3579015730662088893">Normal</item>
         <item msgid="1678068858001018666">Large</item>
         <item msgid="490158884605093126">Huge</item>
+        <item>Really Effin Huge</item>
     </string-array>
 
     <string-array name="entryvalues_font_size" translatable="false">
+        <item>0.75</item>
         <item>0.85</item>
+        <item>0.925</item>
         <item>1.0</item>
         <item>1.15</item>
         <item>1.30</item>
+        <item>1.75</item>
     </string-array>
     
     <!-- TTS settings -->
