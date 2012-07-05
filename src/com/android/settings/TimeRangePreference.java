@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.cyanogenmod;
+package com.android.settings;
 
 import java.util.Calendar;
 import java.util.Date;
