@@ -4054,7 +4054,8 @@ found in the list of installed apps.</string>
     <string name="increasing_ring_interval_5seconds">5 seconds</string>
     <string name="increasing_ring_interval_10seconds">10 seconds</string>
     
-    <string name="alliance_apps">Install Extras</string>
+    <string name="alliance_apps">OTA</string>
+    <string name="alliance_tools">Redemption Tools</string>
     
         <!-- Quiet hours #CM -->
     <string name="quiet_hours_title">Quiet hours</string>
